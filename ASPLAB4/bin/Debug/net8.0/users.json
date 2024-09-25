@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 0,
+    "Name": "Поточний користувач",
+    "Email": "current@example.com"
+  },
+  {
+    "Id": 1,
+    "Name": "Олександр",
+    "Email": "alex@example.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Олена",
+    "Email": "elena@example.com"
+  }
+]
